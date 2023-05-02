@@ -1,5 +1,5 @@
 <h1>Developing a comprehensive project plan for a significant
-development effort."</h1>
+development effort.</h1>
 
 
 <h2>Description</h2>
